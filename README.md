@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Ana Luísa Caixeta
 
 - 🔭 Hoje, estou estudando Sistemas para Internet no Instituto Federal de Brasília.
-- 🌱 Estudando análise de dados, planilhas, Power BI, Python.
+- 🌱 Estudando análise de dados, planilhas, Power BI, Python, SQL.
 - 😄 Pronouns: ela/dela
 
 <div>
