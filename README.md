@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Meu nome é Ana Luísa Caixeta
 
-<!--
-**Ana-Caixeta/Ana-Caixeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje, estou estudando Sistemas para Internet no Instituto Federal de Brasília.
+- 🌱 Estudando análise de dados, planilhas, Power BI, Python.
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Ana-Caixeta">
+    
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ana-caixeta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-caixeta&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/ana-luisa-caixeta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
