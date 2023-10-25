@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Ana Luísa Caixeta
 
-- 🔭 Hoje, estou estudando Sistemas para Internet no Instituto Federal de Brasília.
+- 🔭 Atualmente, curso Sistemas para Internet no Instituto Federal de Brasília.
+- 👩‍💻 Estagiária em Analytics Engineer na InfoPrice.
 - 🌱 Estudando análise de dados, planilhas, Power BI, Python, SQL.
 - 😄 Pronouns: ela/dela
 
